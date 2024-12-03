@@ -9,8 +9,7 @@
     height: 10vh;width:fit-content;
 }
 .head p{
-    display: flex;
-    position: relative;left: 330px;top: 15px;
+    display: flex;justify-content:center;
     color: gray;font-size: 3rem;
 }
 #h2{display: flex;}
