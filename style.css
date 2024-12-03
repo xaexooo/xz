@@ -9,7 +9,7 @@
     height: 10vh;width:fit-content;
     position:relative;bottom:250px;
 }
-.logo{ 
+.logo p{ 
     display: flex;justify-content:center;
     color: gray;font-size: 3rem;
     background-color:bisque;
