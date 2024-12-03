@@ -13,7 +13,7 @@
     position: relative;left: 330px;top: 15px;
     color: gray;font-size: 3rem;
 }
-#author{position:relative;left: 1600px;font-size: 2rem;}
+#author{display: flex;justify-content:right;}
 .page1{
     background-color: #E5E5E5;  
     position: relative;height: 180vh;
@@ -303,8 +303,7 @@
     .cub1line, .cub2line, .cub3line, .cub4line {
         margin: 10px auto;
     }
-    .author{position: absolute;right: 1200px;top: 10px;}
-
+    h2{font-size: 1rem;}
     #cloud {
         width: 80%;
         height: auto;
