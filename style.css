@@ -12,8 +12,8 @@
 .logo{ 
     display: flex;justify-content:center;
     color: gray;font-size: 3rem;
+    background-color:bisque;
 }
-#h2{display: flex;}
 .page1{
     background-color: #E5E5E5;  
     position: relative;height: 180vh;
