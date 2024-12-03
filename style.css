@@ -13,7 +13,7 @@
     position: relative;left: 330px;top: 15px;
     color: gray;font-size: 3rem;
 }
-#author{display: flex;}
+#h2{display: flex;}
 .page1{
     background-color: #E5E5E5;  
     position: relative;height: 180vh;
