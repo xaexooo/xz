@@ -7,7 +7,7 @@
 .head{
     background-color: white;
     height: 10vh;width:fit-content;
-    position:relative;bottom:50px;
+    position:relative;bottom:250px;
 }
 .logo{ 
     display: flex;justify-content:center;
