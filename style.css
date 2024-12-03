@@ -7,6 +7,7 @@
 .head{
     background-color: white;
     height: 10vh;width:fit-content;
+    position:relative;bottom:50px;
 }
 .logo{ 
     display: flex;justify-content:center;
